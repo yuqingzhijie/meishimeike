@@ -1,0 +1,13 @@
+.top {
+	height: 48px;
+	background-color: #e9e8e8
+}
+
+.center {
+	width: 1020px;
+	margin: 0 auto;
+}
+
+.top .top_c {
+	line-height: 48px;
+}
